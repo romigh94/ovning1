@@ -1,4 +1,5 @@
 
-![MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
+![MarineGEO circle logo](markdown-guide-og.jpg)
 
+<img src="markdown-guide-og.jpg" width="50px" />
 
